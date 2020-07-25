@@ -2,6 +2,7 @@ command + up = first line
 Command + down = last line
 command + D = selects the same word found down the code
 command + right or left = goes to the end/beginning of the line
+command + / = comment line
 command + \ = creates a sided window
 command + O = open file
 command + E = search
