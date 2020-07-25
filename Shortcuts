@@ -1,0 +1,15 @@
+Command + down = next line
+command + D = selects the same word found down the code
+command + right = goes to the end of the line
+command + \ = creates a sided window
+
+control + up = separate the windows
+control + down = shows me folders and highlights the window
+
+option + up or down = brings the code line upwards or downwards
+option + shift + f = format entire code
+option + shift + down = copies the code undernieth the original code
+shift + tab = ident left
+lorem + tab = whole text
+lorem*100 = whole text with 100 words
+
