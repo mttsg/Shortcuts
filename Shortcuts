@@ -1,15 +1,25 @@
-Command + down = next line
+command + up = first line
+Command + down = last line
 command + D = selects the same word found down the code
-command + right = goes to the end of the line
+command + right or left = goes to the end/beginning of the line
 command + \ = creates a sided window
+command + O = open file
+command + E = search
+command + enter = next line
 
+shift + command + K = delete line
+shift + tab = ident left
+
+control + K = delete all right
 control + up = separate the windows
 control + down = shows me folders and highlights the window
 
 option + up or down = brings the code line upwards or downwards
 option + shift + f = format entire code
 option + shift + down = copies the code undernieth the original code
-shift + tab = ident left
+option + right or left = runs through the line code word by word.
+
+
 lorem + tab = whole text
 lorem*100 = whole text with 100 words
 
