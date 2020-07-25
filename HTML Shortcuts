@@ -6,6 +6,9 @@ add the code to the html file
 ex: <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
 add fontfamily to your css file:
 ex:font-family: 'Roboto', sans-serif;
+Done...
+
+
 
 Any Tag name + Tab = writes the entire tag
 Any Tag name .class #id = creates a tag name with a class named class and id named id
