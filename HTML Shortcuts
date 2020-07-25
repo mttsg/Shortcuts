@@ -1,5 +1,6 @@
 Importing external font:
 fonts.google.com
+select the font you like
 click on the grid with + icon on top right corner
 add the code to the html file
 ex: <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
